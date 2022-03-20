@@ -2,7 +2,6 @@ package com.assignment;
 
 import static org.hamcrest.Matchers.*;
 
-import org.hamcrest.Matchers;
 import org.json.simple.JSONObject;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
